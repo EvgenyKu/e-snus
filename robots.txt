@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: e-snus.ru
+Sitemap: www.e-snus.ru/sitemap.xml
